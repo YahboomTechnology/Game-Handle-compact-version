@@ -1,1 +1,0 @@
-Note:Please do not use the microbit online programming to open the HelloBot program(Basic.hex,Clip.hex,Forklift.hex), otherwise there will be an error. If you want to use the handle to control hellobot, please download the hex file we provided directly.

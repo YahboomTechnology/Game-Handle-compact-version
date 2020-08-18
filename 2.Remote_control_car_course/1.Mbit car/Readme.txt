@@ -1,0 +1,2 @@
+Note:Please do not use the microbit online programming to open the bit program(mbit.hex), otherwise there will be an error. 
+If you want to use the handle to control bit car, please download the hex file we provided directly.
