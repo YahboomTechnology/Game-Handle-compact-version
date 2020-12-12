@@ -1,5 +1,5 @@
 # Game-Handle-compact-version
-![]()
+![](https://github.com/YahboomTechnology/Microbit-Game-Handle/blob/master/gamepad.jpg)
 # Introduction
 This handle is small and easy to carry. The joystick, button, buzzer, vibration motor, and other modules are integrated on the handle, users can achieve play music, making games and so on by micro:bit programming. It can be used to complete some funny battle games, and be used to remotely control various types of micro-bit related cars, robots, DIY works, etc. Building block holes are also designed on the chassis of this handle to support the installation of LEGO Building blocks.
 # Feature
